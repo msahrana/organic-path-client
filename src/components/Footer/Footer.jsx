@@ -5,10 +5,10 @@ const Footer = () => {
     <footer className="footer bg-neutral text-neutral-content p-10">
       <aside>
         <img className="w-20 rounded-full" src={Logo} alt="" />
-        {/* <p>Organic Path Pvt. Ltd.</p> */}
+        <p>Organic Path Pvt. Ltd.</p>
       </aside>
       <nav>
-        {/* <h6 className="footer-title">Social</h6> */}
+        <h6 className="footer-title uppercase">Social</h6>
         <div className="grid grid-flow-col gap-4">
           <a>
             <svg
