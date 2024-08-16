@@ -31,7 +31,7 @@ const ContactUs = () => {
                 </svg>
 
                 <span className="mx-2 text-gray-700 truncate w-72 dark:text-gray-400">
-                  Cecilia Chapman 711-2880 Nulla St. Mankato Mississippi 96522
+                  Kerani Para, Rangpur, Bangladesh.
                 </span>
               </p>
 
@@ -52,7 +52,7 @@ const ContactUs = () => {
                 </svg>
 
                 <span className="mx-2 text-gray-700 truncate w-72 dark:text-gray-400">
-                  (257) 563-7401
+                  (+880) 1722-445288
                 </span>
               </p>
 
@@ -73,7 +73,7 @@ const ContactUs = () => {
                 </svg>
 
                 <span className="mx-2 text-gray-700 truncate w-72 dark:text-gray-400">
-                  acb@example.com
+                  msahrana@gmail.com
                 </span>
               </p>
             </div>
@@ -171,18 +171,18 @@ const ContactUs = () => {
                   </label>
                   <input
                     type="text"
-                    placeholder="John Doe"
+                    placeholder="Your Full Name"
                     className="block w-full px-5 py-3 mt-2 text-gray-700 placeholder-gray-400 bg-white border border-gray-200 rounded-md dark:placeholder-gray-600 dark:bg-gray-900 dark:text-gray-300 dark:border-gray-700 focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40"
                   />
                 </div>
 
                 <div className="flex-1 mt-6">
                   <label className="block mb-2 text-sm text-gray-600 dark:text-gray-200">
-                    Email address
+                    Email Address
                   </label>
                   <input
                     type="email"
-                    placeholder="johndoe@example.com"
+                    placeholder="Your Email"
                     className="block w-full px-5 py-3 mt-2 text-gray-700 placeholder-gray-400 bg-white border border-gray-200 rounded-md dark:placeholder-gray-600 dark:bg-gray-900 dark:text-gray-300 dark:border-gray-700 focus:border-blue-400 dark:focus:border-blue-400 focus:ring-blue-400 focus:outline-none focus:ring focus:ring-opacity-40"
                   />
                 </div>
