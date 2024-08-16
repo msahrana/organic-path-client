@@ -1,0 +1,422 @@
+[
+  {
+    "product_name": "Radiant Glow Moisturizer",
+    "product_image": "radiant_glow_moisturizer.jpg",
+    "brand": "PureNature",
+    "description": "A lightweight moisturizer infused with natural extracts to keep your skin hydrated and glowing.",
+    "price": 24.99,
+    "category": "Moisturizers",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T10:00:00"
+  },
+  {
+    "product_name": "Nourishing Night Oil",
+    "product_image": "nourishing_night_oil.jpg",
+    "brand": "EcoEssence",
+    "description": "A rejuvenating facial oil enriched with vitamins and antioxidants for overnight skin repair.",
+    "price": 34.5,
+    "category": "Facial Oils",
+    "ratings": 4.8,
+    "creation_date": "2024-08-15T10:10:00"
+  },
+  {
+    "product_name": "Gentle Foaming Cleanser",
+    "product_image": "gentle_foaming_cleanser.jpg",
+    "brand": "GreenGlow",
+    "description": "A soothing foaming cleanser that removes impurities while maintaining skin's natural balance.",
+    "price": 19.99,
+    "category": "Cleansers",
+    "ratings": 4.4,
+    "creation_date": "2024-08-15T10:20:00"
+  },
+  {
+    "product_name": "Deep Hydration Mask",
+    "product_image": "deep_hydration_mask.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A deeply moisturizing mask that revitalizes dry, tired skin with herbal ingredients.",
+    "price": 29.99,
+    "category": "Masks",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T10:30:00"
+  },
+  {
+    "product_name": "Silky Smooth Body Butter",
+    "product_image": "silky_smooth_body_butter.jpg",
+    "brand": "PureNature",
+    "description": "A rich body butter that melts into the skin, providing long-lasting moisture and softness.",
+    "price": 22.99,
+    "category": "Body Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T10:40:00"
+  },
+  {
+    "product_name": "Healing Lip Balm",
+    "product_image": "healing_lip_balm.jpg",
+    "brand": "EcoEssence",
+    "description": "A nourishing lip balm that soothes and protects chapped lips with natural oils.",
+    "price": 7.99,
+    "category": "Lip Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T10:50:00"
+  },
+  {
+    "product_name": "Rejuvenating Night Cream",
+    "product_image": "rejuvenating_night_cream.jpg",
+    "brand": "GreenGlow",
+    "description": "A night cream designed to restore and rejuvenate the skin while you sleep.",
+    "price": 27.5,
+    "category": "Moisturizers",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T11:00:00"
+  },
+  {
+    "product_name": "Brightening Vitamin C Serum",
+    "product_image": "brightening_vitamin_c_serum.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A potent vitamin C serum that brightens the skin and reduces dark spots.",
+    "price": 39.99,
+    "category": "Facial Oils",
+    "ratings": 4.8,
+    "creation_date": "2024-08-15T11:10:00"
+  },
+  {
+    "product_name": "Calming Facial Cleanser",
+    "product_image": "calming_facial_cleanser.jpg",
+    "brand": "PureNature",
+    "description": "A gentle cleanser that calms sensitive skin while effectively removing makeup and impurities.",
+    "price": 18.99,
+    "category": "Cleansers",
+    "ratings": 4.4,
+    "creation_date": "2024-08-15T11:20:00"
+  },
+  {
+    "product_name": "Purifying Charcoal Mask",
+    "product_image": "purifying_charcoal_mask.jpg",
+    "brand": "EcoEssence",
+    "description": "A detoxifying mask that draws out impurities and leaves the skin feeling fresh and clean.",
+    "price": 26.5,
+    "category": "Masks",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T11:30:00"
+  },
+  {
+    "product_name": "Velvet Touch Body Lotion",
+    "product_image": "velvet_touch_body_lotion.jpg",
+    "brand": "GreenGlow",
+    "description": "A luxurious body lotion that hydrates and smooths the skin with a non-greasy finish.",
+    "price": 20.99,
+    "category": "Body Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T11:40:00"
+  },
+  {
+    "product_name": "Minty Fresh Lip Scrub",
+    "product_image": "minty_fresh_lip_scrub.jpg",
+    "brand": "HerbalHarmony",
+    "description": "An exfoliating lip scrub with a refreshing mint flavor that leaves lips soft and smooth.",
+    "price": 8.99,
+    "category": "Lip Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T11:50:00"
+  },
+  {
+    "product_name": "Hydrating Day Cream",
+    "product_image": "hydrating_day_cream.jpg",
+    "brand": "PureNature",
+    "description": "A daily moisturizer that provides intense hydration and protects the skin from environmental stressors.",
+    "price": 23.99,
+    "category": "Moisturizers",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T12:00:00"
+  },
+  {
+    "product_name": "Rosehip Facial Oil",
+    "product_image": "rosehip_facial_oil.jpg",
+    "brand": "EcoEssence",
+    "description": "A nourishing facial oil rich in essential fatty acids and antioxidants for a radiant complexion.",
+    "price": 32.99,
+    "category": "Facial Oils",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T12:10:00"
+  },
+  {
+    "product_name": "Refreshing Gel Cleanser",
+    "product_image": "refreshing_gel_cleanser.jpg",
+    "brand": "GreenGlow",
+    "description": "A refreshing gel cleanser that removes dirt and oil while leaving the skin feeling invigorated.",
+    "price": 19.5,
+    "category": "Cleansers",
+    "ratings": 4.4,
+    "creation_date": "2024-08-15T12:20:00"
+  },
+  {
+    "product_name": "Revitalizing Clay Mask",
+    "product_image": "revitalizing_clay_mask.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A clay mask that revitalizes the skin by removing excess oil and unclogging pores.",
+    "price": 28.99,
+    "category": "Masks",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T12:30:00"
+  },
+  {
+    "product_name": "Ultra Rich Body Cream",
+    "product_image": "ultra_rich_body_cream.jpg",
+    "brand": "PureNature",
+    "description": "An ultra-rich body cream that deeply moisturizes and nourishes dry skin.",
+    "price": 25.99,
+    "category": "Body Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T12:40:00"
+  },
+  {
+    "product_name": "Berry Bliss Lip Tint",
+    "product_image": "berry_bliss_lip_tint.jpg",
+    "brand": "EcoEssence",
+    "description": "A tinted lip balm that provides a hint of color while keeping lips moisturized.",
+    "price": 9.5,
+    "category": "Lip Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T12:50:00"
+  },
+  {
+    "product_name": "Age-Defying Moisturizer",
+    "product_image": "age_defying_moisturizer.jpg",
+    "brand": "GreenGlow",
+    "description": "A powerful moisturizer that combats signs of aging while hydrating the skin.",
+    "price": 29.99,
+    "category": "Moisturizers",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T13:00:00"
+  },
+  {
+    "product_name": "Soothing Lavender Facial Oil",
+    "product_image": "soothing_lavender_facial_oil.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A calming facial oil infused with lavender to soothe and relax the skin.",
+    "price": 33.99,
+    "category": "Facial Oils",
+    "ratings": 4.8,
+    "creation_date": "2024-08-15T13:10:00"
+  },
+  {
+    "product_name": "Brightening Exfoliating Cleanser",
+    "product_image": "brightening_exfoliating_cleanser.jpg",
+    "brand": "PureNature",
+    "description": "An exfoliating cleanser that brightens and revitalizes dull skin.",
+    "price": 21.5,
+    "category": "Cleansers",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T13:20:00"
+  },
+  {
+    "product_name": "Hydro Boost Gel Mask",
+    "product_image": "hydro_boost_gel_mask.jpg",
+    "brand": "EcoEssence",
+    "description": "A hydrating gel mask that replenishes moisture and refreshes the skin.",
+    "price": 27.99,
+    "category": "Masks",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T13:30:00"
+  },
+  {
+    "product_name": "Silk & Honey Body Lotion",
+    "product_image": "silk_honey_body_lotion.jpg",
+    "brand": "GreenGlow",
+    "description": "A body lotion enriched with honey to provide silky smooth skin.",
+    "price": 22.99,
+    "category": "Body Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T13:40:00"
+  },
+  {
+    "product_name": "Rose Petal Lip Balm",
+    "product_image": "rose_petal_lip_balm.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A soothing lip balm with a delicate rose petal scent.",
+    "price": 7.99,
+    "category": "Lip Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T13:50:00"
+  },
+  {
+    "product_name": "Daily Moisture Cream",
+    "product_image": "daily_moisture_cream.jpg",
+    "brand": "PureNature",
+    "description": "A daily moisture cream that keeps skin hydrated throughout the day.",
+    "price": 24.5,
+    "category": "Moisturizers",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T14:00:00"
+  },
+  {
+    "product_name": "Golden Glow Facial Oil",
+    "product_image": "golden_glow_facial_oil.jpg",
+    "brand": "EcoEssence",
+    "description": "A facial oil that imparts a golden glow to the skin, perfect for a radiant look.",
+    "price": 35.99,
+    "category": "Facial Oils",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T14:10:00"
+  },
+  {
+    "product_name": "Detoxifying Mud Cleanser",
+    "product_image": "detoxifying_mud_cleanser.jpg",
+    "brand": "GreenGlow",
+    "description": "A mud-based cleanser that detoxifies and purifies the skin.",
+    "price": 20.5,
+    "category": "Cleansers",
+    "ratings": 4.4,
+    "creation_date": "2024-08-15T14:20:00"
+  },
+  {
+    "product_name": "Revitalizing Overnight Mask",
+    "product_image": "revitalizing_overnight_mask.jpg",
+    "brand": "HerbalHarmony",
+    "description": "An overnight mask that revitalizes the skin while you sleep.",
+    "price": 31.99,
+    "category": "Masks",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T14:30:00"
+  },
+  {
+    "product_name": "Coconut & Almond Body Butter",
+    "product_image": "coconut_almond_body_butter.jpg",
+    "brand": "PureNature",
+    "description": "A body butter infused with coconut and almond to nourish and hydrate the skin.",
+    "price": 23.99,
+    "category": "Body Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T14:40:00"
+  },
+  {
+    "product_name": "Vanilla Bean Lip Scrub",
+    "product_image": "vanilla_bean_lip_scrub.jpg",
+    "brand": "EcoEssence",
+    "description": "A lip scrub with a sweet vanilla scent that exfoliates and softens the lips.",
+    "price": 8.99,
+    "category": "Lip Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T14:50:00"
+  },
+  {
+    "product_name": "Anti-Aging Moisturizer",
+    "product_image": "anti_aging_moisturizer.jpg",
+    "brand": "GreenGlow",
+    "description": "A moisturizer that targets fine lines and wrinkles for a youthful appearance.",
+    "price": 30.5,
+    "category": "Moisturizers",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T15:00:00"
+  },
+  {
+    "product_name": "Calm & Soothe Facial Oil",
+    "product_image": "calm_soothe_facial_oil.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A calming facial oil that reduces redness and soothes irritated skin.",
+    "price": 32.5,
+    "category": "Facial Oils",
+    "ratings": 4.8,
+    "creation_date": "2024-08-15T15:10:00"
+  },
+  {
+    "product_name": "Brightening Cleanser",
+    "product_image": "brightening_cleanser.jpg",
+    "brand": "PureNature",
+    "description": "A cleanser that brightens and refreshes the skin with natural ingredients.",
+    "price": 19.99,
+    "category": "Cleansers",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T15:20:00"
+  },
+  {
+    "product_name": "Hydrating Overnight Mask",
+    "product_image": "hydrating_overnight_mask.jpg",
+    "brand": "EcoEssence",
+    "description": "An overnight mask that hydrates and plumps the skin, leaving it soft and smooth by morning.",
+    "price": 29.5,
+    "category": "Masks",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T15:30:00"
+  },
+  {
+    "product_name": "Cocoa Butter Body Lotion",
+    "product_image": "cocoa_butter_body_lotion.jpg",
+    "brand": "GreenGlow",
+    "description": "A rich body lotion with cocoa butter that deeply moisturizes and softens the skin.",
+    "price": 21.99,
+    "category": "Body Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T15:40:00"
+  },
+  {
+    "product_name": "Peppermint Lip Balm",
+    "product_image": "peppermint_lip_balm.jpg",
+    "brand": "HerbalHarmony",
+    "description": "A refreshing lip balm with a peppermint scent that cools and soothes the lips.",
+    "price": 7.5,
+    "category": "Lip Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T15:50:00"
+  },
+  {
+    "product_name": "Soothing Aloe Moisturizer",
+    "product_image": "soothing_aloe_moisturizer.jpg",
+    "brand": "PureNature",
+    "description": "A soothing moisturizer with aloe that calms and hydrates the skin.",
+    "price": 25.5,
+    "category": "Moisturizers",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T16:00:00"
+  },
+  {
+    "product_name": "Nourishing Avocado Oil",
+    "product_image": "nourishing_avocado_oil.jpg",
+    "brand": "EcoEssence",
+    "description": "A nourishing facial oil with avocado that deeply moisturizes and replenishes the skin.",
+    "price": 33.5,
+    "category": "Facial Oils",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T16:10:00"
+  },
+  {
+    "product_name": "Clarifying Charcoal Cleanser",
+    "product_image": "clarifying_charcoal_cleanser.jpg",
+    "brand": "GreenGlow",
+    "description": "A charcoal cleanser that detoxifies and clarifies the skin, leaving it refreshed.",
+    "price": 20.99,
+    "category": "Cleansers",
+    "ratings": 4.4,
+    "creation_date": "2024-08-15T16:20:00"
+  },
+  {
+    "product_name": "Rejuvenating Overnight Mask",
+    "product_image": "rejuvenating_overnight_mask.jpg",
+    "brand": "HerbalHarmony",
+    "description": "An overnight mask that rejuvenates and revitalizes the skin for a fresh look by morning.",
+    "price": 31.99,
+    "category": "Masks",
+    "ratings": 4.7,
+    "creation_date": "2024-08-15T16:30:00"
+  },
+  {
+    "product_name": "Shea Butter Body Cream",
+    "product_image": "shea_butter_body_cream.jpg",
+    "brand": "PureNature",
+    "description": "A rich body cream with shea butter that deeply nourishes and softens the skin.",
+    "price": 24.99,
+    "category": "Body Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-15T16:40:00"
+  },
+  {
+    "product_name": "Raspberry Lip Scrub",
+    "product_image": "raspberry_lip_scrub.jpg",
+    "brand": "EcoEssence",
+    "description": "A lip scrub with a delicious raspberry flavor that exfoliates and rejuvenates the lips.",
+    "price": 8.5,
+    "category": "Lip Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-15T16:50:00"
+  }
+]
