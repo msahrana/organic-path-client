@@ -32,6 +32,7 @@ const Login = () => {
     googleUser().then((result) => {
       console.log(result.user);
       toast.success("User Logged By Google!");
+      navigate(location?.state ? location.state : "/");
     });
   };
 

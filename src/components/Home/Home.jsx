@@ -18,7 +18,7 @@ const Home = () => {
   useEffect(() => {
     const getData = async () => {
       const {data} = await axios(
-        `http://localhost:5000/all-data?page=${currentPage}&size=${itemsPerPage}&filter=${filter}&sort=${sort}&search=${search}`
+        `https://organic-path-server.vercel.app/all-data?page=${currentPage}&size=${itemsPerPage}&filter=${filter}&sort=${sort}&search=${search}`
       );
       setAllData(data);
     };
@@ -28,7 +28,7 @@ const Home = () => {
   useEffect(() => {
     const getCount = async () => {
       const {data} = await axios(
-        `http://localhost:5000/data-count?filter=${filter}&search=${search}`
+        `https://organic-path-server.vercel.app/data-count?filter=${filter}&search=${search}`
       );
       setCount(data.count);
     };
@@ -61,9 +61,9 @@ const Home = () => {
         <Banner></Banner>
       </div>
 
-      <div>
+      <div className="mt-2">
         {/* search, filter & sort */}
-        <div className="flex flex-col md:flex-row justify-center items-center gap-5 ">
+        <div className="flex flex-col md:flex-row justify-center items-center gap-20">
           <div>
             <select
               onChange={(e) => {

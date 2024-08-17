@@ -30,6 +30,7 @@ const Register = () => {
       .then((result) => {
         console.log(result.user);
         toast.success("User Create By Google!");
+        navigate(location?.state ? location.state : "/");
       })
       .catch((err) => {
         console.log(err);

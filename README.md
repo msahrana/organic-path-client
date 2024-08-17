@@ -1,8 +1,17 @@
-# React + Vite
+Website Name: Organic Path
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website URL:https://organic-path.web.app
 
-Currently, two official plugins are available:
+Basic Instructions:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Client site setup:
+  After client site setup you should be built a navbar and footer section. Then you can add AuthProvider, then create register page and login page.
+
+- Data Load:
+  By useState & useEffect you can load all data from database. All data are shown by a card item. Here, all document are include.
+
+- Server site setup:
+  After server site setup you should be create mongodb database. By get option you can get all data from database. Also, you can get all data by search, filter, sort etc.
+
+  - Deploy:
+    You can deploy server site by vercel and client site by firebase.

@@ -19,19 +19,35 @@ const AllDataCard = ({singleData}) => {
         />
       </figure>
       <div className="text-center mx-auto">
-        <h2 className="card-title">{product_name}</h2>
+        <h2 className="card-title lg:text-3xl text-green-500">
+          {product_name}
+        </h2>
       </div>
       <div className="flex justify-between px-3">
-        <h1>Brand: {brand}</h1>
-        <h1>Price: {price}</h1>
-        <h1>Ratings: {ratings}</h1>
+        <h1>
+          <span className="font-bold">Brand:</span> {brand}
+        </h1>
+        <h1>
+          <span className="font-bold">Price:</span>{" "}
+          <span className="text-green-500 font-bold">${price}</span>
+        </h1>
+        <h1>
+          <span className="font-bold">Ratings:</span>{" "}
+          <span className="text-red-600 font-semibold">{ratings}</span>
+        </h1>
       </div>
       <div className="flex justify-between px-3">
-        <h1>{category}</h1>
-        <h1>{creation_date}</h1>
+        <h1>
+          <span className="font-bold">Category:</span> {category}
+        </h1>
+        <h1>
+          <span className="font-bold">Date:</span> {creation_date}
+        </h1>
       </div>
       <div className="text-justify px-3">
-        <p>Description: {description}</p>
+        <p>
+          <span className="font-bold">Description:</span> {description}
+        </p>
       </div>
     </div>
   );
