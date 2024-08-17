@@ -13,7 +13,9 @@ const Navbar = () => {
     <>
       <li>
         <NavLink
-          className={({isActive}) => (isActive ? "bg-red-500 text-white" : "")}
+          className={({isActive}) =>
+            isActive ? "bg-[#3B82F6] text-white" : ""
+          }
           to="/"
         >
           Home
@@ -21,7 +23,9 @@ const Navbar = () => {
       </li>
       <li>
         <NavLink
-          className={({isActive}) => (isActive ? "bg-red-500 text-white" : "")}
+          className={({isActive}) =>
+            isActive ? "bg-[#3B82F6] text-white" : ""
+          }
           to="/contactUs"
         >
           ContactUs
@@ -77,14 +81,14 @@ const Navbar = () => {
             </div>
             <button
               onClick={handleLogOut}
-              className="bg-red-500 px-2 py-1 rounded-lg text-white"
+              className="bg-[#3B82F6] px-2 py-1 rounded-lg text-white"
             >
               Logout
             </button>
           </div>
         ) : (
           <Link to="/login">
-            <button className="bg-red-500 px-2 py-1 rounded-lg text-white">
+            <button className="bg-[#3B82F6] px-2 py-1 rounded-lg text-white">
               Login
             </button>
           </Link>

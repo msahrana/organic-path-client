@@ -1,10 +1,13 @@
+import {Link} from "react-router-dom";
 import Logo from "/logo.png";
 
 const Footer = () => {
   return (
     <footer className="footer bg-neutral text-neutral-content p-10">
       <aside>
-        <img className="w-20 rounded-full" src={Logo} alt="" />
+        <Link to="/">
+          <img className="w-20 rounded-full" src={Logo} alt="" />
+        </Link>
         <p>Organic Path Pvt. Ltd.</p>
       </aside>
       <nav>
